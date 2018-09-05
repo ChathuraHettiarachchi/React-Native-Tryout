@@ -27,16 +27,11 @@ export default class App extends Component {
 
 	constructor() {
 		super()
-		this.state = {
-			value: ""
-		}
 		this.handleChangeText = this.handleChangeText.bind(this)
 	}
 
 	handleChangeText(newText) {
-		this.setState({
-			value: newText
-		})
+		
 	}
 
 	onLoginPressed(){
@@ -109,7 +104,6 @@ const styles = StyleSheet.create({
 	},
 	alignBottom: {
 		flex: 1,
-		bottom: 0
 	},
 	halfTop: {
 		flex: 2,
