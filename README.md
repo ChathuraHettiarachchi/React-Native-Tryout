@@ -19,3 +19,9 @@ Only having Flex changes
 I have tries to add items well but have less knowlege on developing and desiging ui in react native. I'll try good looking ui next time. Probably another login ui :)
 
 ![screen shot 2018-09-05 at 2 45 22 pm](https://user-images.githubusercontent.com/13764097/45138399-e0088e00-b1c9-11e8-910e-8b2f7c85891c.png)
+
+# 04. Login UI 
+I have followed an awesome tutorial about login ui making. but have some issues with the android one. Following is the youtube link to the tutorial.
+https://www.youtube.com/watch?v=4TruGz_JVp8
+
+![screen shot 2018-09-06 at 2 21 33 pm](https://user-images.githubusercontent.com/13764097/45146331-4dbfb480-b1e0-11e8-9873-2f03dcb76971.png)
