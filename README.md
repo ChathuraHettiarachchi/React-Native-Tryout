@@ -25,3 +25,8 @@ I have followed an awesome tutorial about login ui making. but have some issues 
 https://www.youtube.com/watch?v=4TruGz_JVp8
 
 ![screen shot 2018-09-06 at 2 21 33 pm](https://user-images.githubusercontent.com/13764097/45146331-4dbfb480-b1e0-11e8-9873-2f03dcb76971.png)
+
+# 05. Working Calculator
+In this part, I have learnt about creating good UI, button press and meny more. Enjoy my little calculator.
+
+![merge_from_ofoct](https://user-images.githubusercontent.com/13764097/45408790-0d9e7d00-b68b-11e8-8ca1-f7653a9aa994.jpg)
