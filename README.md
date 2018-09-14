@@ -30,3 +30,8 @@ https://www.youtube.com/watch?v=4TruGz_JVp8
 In this part, I have learnt about creating good UI, button press and meny more. Enjoy my little calculator.
 
 ![merge_from_ofoct](https://user-images.githubusercontent.com/13764097/45408790-0d9e7d00-b68b-11e8-8ca1-f7653a9aa994.jpg)
+
+# 06. Simple API call
+I have tried to load list of books. What i understand is, it's same as the native way. We need to create a single cell item and then populate the content later. Somewhat easier than normal way. I have added an ActivityIndicator untill the loading is complete.
+
+![merge_from_ofoct](https://user-images.githubusercontent.com/13764097/45546253-6d875600-b83a-11e8-9559-a945a081b41f.jpg)
